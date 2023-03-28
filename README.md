@@ -1,1 +1,1 @@
-Browser Extension Testing
+Browser Extension Testing Environment
